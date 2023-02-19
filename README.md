@@ -6,4 +6,4 @@ https://www.sciencedirect.com/journal/archives-of-medical-research
 2023-02-18
 
 ## Licensing
-The contents of this repository, unless otherwise specified, are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+<rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
